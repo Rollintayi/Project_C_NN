@@ -1,4 +1,4 @@
-# Cette brache sert à répondre au besoin client 1, celui de la visualisation sur carte
+# Cette brache sert à répondre au besoin client 1
 Préparation des données :
 • Extraction des données d’intérêt : sélectionner les colonnes pertinentes de la base de données selon ce besoin.
 • Encodage des données catégorielles si nécessaire : utiliser des techniques de prétraitement pour convertir les données non numériques en données
