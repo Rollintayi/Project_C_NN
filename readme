@@ -1,1 +1,9 @@
-Cette branche contient le nécessaire pour la prédiction de la trajectoire des navires.
+-----Cette partie répond au besoin client n°3-----
+Objectif: Cette branche contient le nécessaire pour la prédiction de la trajectoire future des navires à partir des données contenues dans notre db
+Source: Fichier CSV contenant les données brutes
+Méthdes:
+- Modèles: RandomForest, LinearRegression, DecisionTree
+- x: vecteurs de positions passées
+- y: vecteurs de positions futures (à 5, 10 et 15 minutes)
+Evaluation: RMSE, cross-validation.
+Résultats attendus: Prédictions cohérentes avec les données réelles, permettant de visualiser la trajectoire future des navires.
