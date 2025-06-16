@@ -1,9 +1,9 @@
 # Cette brache sert à répondre au besoin client 1
-Préparation des données :
-• Extraction des données d’intérêt : sélectionner les colonnes pertinentes de la base de données selon ce besoin.
-• Encodage des données catégorielles si nécessaire : utiliser des techniques de prétraitement pour convertir les données non numériques en données
+Préparation des données :\n
+• Extraction des données d’intérêt : sélectionner les colonnes pertinentes de la base de données selon ce besoin.\n
+• Encodage des données catégorielles si nécessaire : utiliser des techniques de prétraitement pour convertir les données non numériques en données\n
 numériques si nécessaire. Référez-vous à https://scikit-learn.org/stable/modules/preprocessing.html
-• Apprentissage non-supervisé :
+• Apprentissage non-supervisé :\n
 • Choix de l'algorithme de clustering : sélectionner un/des algorithme(s) de clustering pour regrouper les navires selon des schémas de navigation
 similaires . Référez-vous à https://scikit-learn.org/stable/modules/clustering.html
 • Détermination du nombre de clusters : expérimenter avec différents nombres de clusters pour voir quel modèle offre le meilleur regroupement.
